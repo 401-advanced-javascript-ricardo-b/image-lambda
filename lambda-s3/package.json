@@ -1,0 +1,22 @@
+{
+  "name": "aws-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tahmina-Ringer-401-advanced-javascript/aws-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tahmina-Ringer-401-advanced-javascript/aws-lambda/issues"
+  },
+  "homepage": "https://github.com/Tahmina-Ringer-401-advanced-javascript/aws-lambda#readme",
+  "dependencies": {
+    "sharp": "^0.27.0"
+  }
+}
